@@ -1,0 +1,61 @@
+name: Update publications and publish site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 1 * * 1"   # every Monday 08:17 Bangkok time
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write           # lets the bot commit the refreshed publication list
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch publications from ORCID + OpenAlex
+        run: python scripts/fetch_publications.py
+
+      - name: Save updated list to the repo
+        run: |
+          if [ -n "$(git status --porcelain data/publications.json _publications.md _recent_publications.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/publications.json _publications.md _recent_publications.md
+            git commit -m "Update publication list"
+            git push
+          else
+            echo "No publication changes."
+          fi
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
