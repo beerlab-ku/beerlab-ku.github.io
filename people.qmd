@@ -165,6 +165,18 @@ I am interested in plant diversity, taxonomy, and genetics. I currently study ec
 :::
 :::
 
+::: {.person}
+::: {.avatar}
+PT
+:::
+::: {}
+### Peeraphat Thanasoot (Tonkhaw)
+Expertise
+: Angiosperms, Phylogenetics
+
+Current research
+: Past, Present, Future: Evolution of Wild Ginger (*Zingiber*) under Climatic Niches
+
 ## Alumni
 
 ::: {.alumni-year}
