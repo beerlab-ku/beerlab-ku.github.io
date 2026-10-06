@@ -79,7 +79,8 @@ h3 { font-size: 1.2rem; }
     display: flex; align-items: center; justify-content: center;
     font-family: $headings-font-family; font-weight: 700; font-size: 1.6rem;
     overflow: hidden;
-    img { width: 100%; height: 100%; object-fit: cover; }
+    p { margin: 0; width: 100%; height: 100%; }
+    img { display: block; width: 100%; height: 100%; max-width: none; object-fit: cover; }
   }
   .quote { font-style: italic; color: #4a5343; }
   .contact { font-size: .92rem; }
