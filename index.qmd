@@ -27,7 +27,7 @@ We are based at the **Botanical Knowledge Museum**, Department of Botany, Kasets
 ::: {.card-grid}
 ::: {.tile}
 ### How many species are there?
-Floristics and systematics — classical taxonomy backed by morphology and DNA.
+Floristics and systematics: integrative taxonomy through multiple lines of evidence.
 :::
 ::: {.tile}
 ### What maintains diversity in a community?

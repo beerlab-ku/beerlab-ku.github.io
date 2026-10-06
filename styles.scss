@@ -70,7 +70,8 @@ h3 { font-size: 1.2rem; }
   border-radius: 12px;
   padding: 1.2rem 1.3rem;
   margin: 1rem 0;
-  h3 { margin: 0 0 .2rem; color: $primary; }
+  h3, h4 { margin: 0 0 .2rem; color: $primary; }
+  h4 { font-size: 1.25rem; }
   .role { color: $secondary; font-size: .95rem; margin-bottom: .5rem; }
   .avatar {
     flex: 0 0 88px; width: 88px; height: 88px; border-radius: 50%;
