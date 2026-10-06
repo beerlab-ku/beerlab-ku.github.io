@@ -3,7 +3,7 @@
   "updated": "2026-10-06",
   "orcid": "0000-0002-8437-2180",
   "n_orcid": 77,
-  "n_openalex": 117
+  "n_openalex": 118
  },
  "publications": [
   {
@@ -11,7 +11,7 @@
    "year": 2026,
    "venue": "Journal of Evolutionary Biology",
    "doi": "10.1093/jeb/voag103",
-   "type": "journal-article",
+   "type": "article",
    "authors": [
     "Karnjanapond Sornchai",
     "Thotsapol Chaianunporn",
@@ -23,8 +23,13 @@
     "Worapong Singchat",
     "Kornsorn Srikulnath"
    ],
-   "url": "https://doi.org/10.1093/jeb/voag103",
-   "source": "orcid"
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "oa_url": null,
+   "cited_by": 0,
+   "openalex": "https://openalex.org/W7220386285",
+   "source": "orcid+openalex"
   },
   {
    "title": "Bryophyte Use in Bird Nests Varies with Nesting Location in a Tropical Montane Forest",
@@ -1766,7 +1771,7 @@
    "issue": "0",
    "pages": "bau061–bau061",
    "oa_url": "https://academic.oup.com/database/article-pdf/doi/10.1093/database/bau061/17472787/bau061.pdf",
-   "cited_by": 489,
+   "cited_by": 490,
    "openalex": "https://openalex.org/W1993679825",
    "source": "orcid+openalex"
   },
