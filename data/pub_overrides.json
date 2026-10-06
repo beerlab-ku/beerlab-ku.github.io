@@ -1,0 +1,6 @@
+{
+  "_help": "exclude: DOIs or exact titles to hide. fix: DOI/title -> fields to overwrite (e.g. venue, year, authors). extra: papers missing from ORCID and OpenAlex (title, year, venue, authors, doi).",
+  "exclude": [],
+  "fix": {},
+  "extra": []
+}

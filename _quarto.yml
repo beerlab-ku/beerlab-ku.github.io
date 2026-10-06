@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!README.md"
+
+lang: en
+
+website:
+  title: "BEER Lab"
+  description: "Biodiversity, Ecology and Evolution Research Lab — Department of Botany, Kasetsart University"
+  site-url: "https://beerlab-ku.github.io"   # change to your final address
+  favicon: images/favicon.svg
+  page-navigation: false
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    logo: images/logo.svg
+    title: "BEER Lab"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: join.qmd
+        text: Join us
+    right:
+      - icon: youtube
+        href: https://www.youtube.com/@ajarnbier
+        aria-label: YouTube
+      - text: ORCID
+        href: https://orcid.org/0000-0002-8437-2180
+      - icon: envelope
+        href: mailto:ekaphan.k@ku.th
+        aria-label: Email
+  page-footer:
+    left: "© BEER Lab · Department of Botany, Faculty of Science, Kasetsart University, Bangkok"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    mainfont: "Noto Sans, Noto Sans Thai, sans-serif"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Sans+Thai:wght@400;600&family=Noto+Serif:wght@600;700&display=swap" rel="stylesheet">

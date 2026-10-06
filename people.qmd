@@ -1,0 +1,211 @@
+---
+title: "People"
+---
+
+<!--
+HOW TO EDIT THIS PAGE
+- Each person is one ::: {.person} block. Copy a block to add someone.
+- Photo: put a square image in images/people/ and replace the initials inside
+  ::: {.avatar} with  ![](images/people/filename.jpg)
+- When someone graduates, delete their block and add one line under Alumni.
+-->
+
+## Principal Investigator
+
+::: {.person}
+::: {.avatar}
+EK
+:::
+::: {}
+### Ekaphan Kraichak (Bier), PhD
+[Associate Professor & Chair, Department of Botany]{.role}
+
+My training is in the diversity and ecology of bryophytes and lichens; I have become more involved in phylogenetics, genetic diversity, and statistics in biology in general. R enthusiast!
+
+- PhD, Integrative Biology, University of California, Berkeley (2013)
+- AB, Biology (Honors), Bowdoin College (2008)
+- Research Associate, Field Museum of Natural History, Chicago
+- Editorial board: *The Lichenologist*, *MycoKeys*, *Chiang Mai Journal of Science*
+- Thailand's Young Scientist Award (2019)
+
+[[ekaphan.k@ku.th](mailto:ekaphan.k@ku.th) · [ORCID](https://orcid.org/0000-0002-8437-2180) · [YouTube](https://www.youtube.com/@ajarnbier)]{.contact}
+:::
+:::
+
+## Postdoctoral Researcher
+
+::: {.person}
+::: {.avatar}
+NW
+:::
+::: {}
+### Natthawadi Wongthet (Praew), PhD
+Expertise
+: Phytochemistry, phylogenetics, bioactivities, *Clausena*
+
+Current research
+: An integrative perspective into the endemic diversity of *Maerua siamensis*
+
+[Be the best version of yourself and be proud of who you are!]{.quote}
+
+[[natthawadi.won@ku.th](mailto:natthawadi.won@ku.th) · Twitter/X: [\@Praew_llwSJ](https://x.com/Praew_llwSJ)]{.contact}
+
+<details><summary>Selected publications</summary>
+
+1. Wongthet, N., Bacher, M., Krenn, M., Jai-aree, A., Rosenau, T., Tiwutanon, P., Anantaprayoon, N., Vajrodaya, S., Brecker, L., Schinnerl, J., & Kraichak, E. (2024). Genetic diversity, chemical constituents, and bioactivities of *Maerua siamensis* from Thailand. *Plants*, 13(23), 3359. [DOI](https://doi.org/10.3390/plants13233359)
+2. Wongthet, N., Sanevas, N., Schinnerl, J., Brecker, L., Santimaleeworagun, W., Rosenau, T., Bacher, M., & Vajrodaya, S. (2021). Chemical constituents of *Clausena lenis*. *Natural Product Research*, 35(21), 3873–3879.
+3. Wongthet, N., Sanevas, N., Schinnerl, J., Valant-Vetschera, K., Bacher, M., & Vajrodaya, S. (2018). Chemodiversity of *Clausena excavata* (Rutaceae) and related species: coumarins and carbazoles. *Biochemical Systematics and Ecology*, 80, 84–90.
+
+</details>
+:::
+:::
+
+## PhD Students
+
+::: {.person}
+::: {.avatar}
+KP
+:::
+::: {}
+### Kanokporn Promnikorn (Fon)
+Expertise
+: Species distribution models, geospatial analysis, agricultural data analysis
+
+Current research
+: Effective modeling to predict the productivity of each cassava cultivar in Thailand
+
+I'm interested in applying agricultural data and statistical techniques to solve agricultural problems better. I'm curious to learn about using R for data manipulation, geospatial mapping, and modeling!
+
+[[kanokporn.promn@ku.th](mailto:kanokporn.promn@ku.th)]{.contact}
+
+<details><summary>Selected publications</summary>
+
+1. Phanthanong, P., Promnikorn, K., Kongsil, P., Kraichak, E., Jenweerawat, S., Vuttipongchaikij, S., & Kittipadakul, P. (2025). Variety-specific responses to climatic and edaphic factors in cassava productivity. *Frontiers in Agronomy*, 7, 1476033.
+2. Promnikorn, K., Jutamanee, K., & Kraichak, E. (2019). MaxEnt model for predicting potential distribution of *Vitex glabrata* R.Br. in Thailand. *Agriculture and Natural Resources*, 53(1), 44–48.
+
+</details>
+:::
+:::
+
+::: {.person}
+::: {.avatar}
+AS
+:::
+::: {}
+### Athita Senayai (Aim)
+Expertise
+: Bryophytes, duckweeds
+
+Current research
+: Genetics, chemical diversity, and demographic senescence of duckweeds in Thailand
+
+I've been interested in various fields of biology since I was an undergraduate. I began studying bryophytes as a master's student in Botany, and I now work on several aspects of duckweed species in Thailand. Apart from academic work, I enjoy badminton, hiking, camping, and cycling!
+
+[[athita.s@ku.th](mailto:athita.s@ku.th)]{.contact}
+
+<details><summary>Selected publications</summary>
+
+1. He, S., Senayai, A., & Chantanaorrapint, S. (2022). *Leiodontium geminoserratum* (Hypnaceae, Bryophyta), a new species from Thailand. *Novon*, 30, 1–5.
+2. Senayai, A., Suwanmala, O., Lomlim, W., & Chantanaorrapint, S. (2021). The genus *Soella* (Lejeuneaceae, Marchantiophyta) new to Thailand. *Thai Forest Bulletin (Botany)*, 49(1), 102–105.
+3. Senayai, A., Lomlim, W., & Chantanaorrapint, S. (2020). Species richness of bryophytes at Khao Ngon Nak, Krabi Province. *KKU Science Journal*, 48(4), 470–482.
+
+</details>
+:::
+:::
+
+## Master's Students
+
+::: {.person}
+::: {.avatar}
+AB
+:::
+::: {}
+### Akekachoke Buranaanun (M)
+Expertise
+: Ornithology, plant taxonomy, bryophytes, pteridophytes, citizen science
+
+Current research
+: Bryophytes as nest materials of mid-montane forest birds at Doi Inthanon National Park
+
+I am interested in birds, bryophytes, and ferns — especially the relationship between birds and bryophytes. I am a birding trip manager working with many bird guides in Thailand, and a nature communicator leading people to explore and learn in various natural habitats.
+
+[[akekachoke.b@ku.th](mailto:akekachoke.b@ku.th) · [eBird](https://ebird.org/profile/NzUwMTUy)]{.contact}
+:::
+:::
+
+::: {.person}
+::: {.avatar}
+SJ
+:::
+::: {}
+### Siwaporn Jansantia (Fah)
+Expertise
+: Bryophytes, duckweeds, plant ecology
+
+Current research
+: Effect of culture medium concentration on the growth of duckweed species
+:::
+:::
+
+::: {.person}
+::: {.avatar}
+SK
+:::
+::: {}
+### Suraphong Kosum (Mos)
+Expertise
+: Duckweeds, plant taxonomy, biodiversity
+
+Current research
+: Temporal changes and associated factors of duckweeds within natural ponds of Bangkok
+
+I am interested in plant diversity, taxonomy, and genetics. I currently study ecology, with a special focus on duckweeds. I enjoy hiking and observing flowering plants, which I am particularly passionate about.
+
+[[suraphong.k@ku.th](mailto:suraphong.k@ku.th)]{.contact}
+:::
+:::
+
+## Alumni
+
+::: {.alumni-year}
+### Class of 2023
+- Patsakorn Tiwutanon (PhD Botany) — Systematics of the moss genus *Leucobryum* in Thailand
+- Puwadol Chawengkul (MSc Botany) — Species distribution modeling of *Leucobryum* from SE Asia under future climate change
+- Nopparat Anantaprayoon (MSc Botany) — Diversification of the liverwort family Aneuraceae
+- Thanpitcha Jenkit (BSc Botany) — Comparing the efficiency of vegetation indices in predicting cassava yield
+
+### Class of 2022
+- Sangsuree Thippawan (MSc Botany) — Biomass modeling of seedlings from dry evergreen forest in Huai Kha Khaeng Wildlife Sanctuary
+- Napat Jantaraprasot (MSc Botany) — Morphological and genetic diversity of *Dioscorea* cultivars in Thailand
+- Siwaporn Jansantia (BSc Botany) — Terricolous bryophytes in Sakaerat Environmental Research Station
+- Thanyalak Phuthanakul (BSc Botany) — Stand structure and environments of white samet in Rayong Botanical Garden
+
+### Class of 2021
+- Phiraon Carcaiso (BSc Biology, MUIC) — Potential for DNA barcoding in crickets
+- Chayaporn Lakmaung (BSc Botany) — DNA barcoding of Thai *Leptolejeunea*
+- Kanchaphorn Ratchasong (BSc Botany) — Ecology of urban duckweeds
+
+### Class of 2020
+- Kasidis Chaiyasit (BSc Biology, MUIC) — Phylogenetic classification of the *Leucobryum aduncum* complex
+- Paveetida Saengnuan (BSc Biology, MUIC) — Systematic review of factors contributing to cassava productivity
+
+### Class of 2019
+- Purachet Phankien (MSc Botany) — Species diversity of *Leptolejeunea* in Thailand
+- Wannaporn Eiamsri (MSc Botany) — Diversity of bryophytes in Khao Chong
+- Kanokporn Promnikorn (MSc Botany) — Species distribution modeling of *Vitex glabrata*
+- Sukanya Pumiretsuntorn (BSc Botany) — Species richness of bryophytes in Sap Cham Pa swamp forest
+- Sawanphathu Kongkawai (BSc Biology, MUIC) — Molecular identification of Thai duckweeds by DNA barcoding
+- Ratdaporn Cheung (BSc Biology, MUIC) — DNA barcoding for species of stingless bees in Thailand
+
+### Class of 2018
+- Pakawat Jarupand (BSc Botany) — DNA barcoding of *Sphagnum* in Thailand
+- Sangsuree Thippawan (BSc Botany) — Epiphytic lichens and bryophytes by host species and size in the Khao Chong plot
+- Nopparat Anantaprayoon (BSc Botany) — Integrative taxonomy of the genus *Aneura* in Thailand
+
+### Class of 2017
+- Sorrasak Yodphaka (BSc Biology & MSc Botany) — DNA barcoding of epiphytic bryophytes in Thailand
+- Amarisa Noinakorn (BSc Botany) — Association of epiphytic bryophytes and host characters
+
+### Class of 2016
+- Panupong Kongwan (BSc Botany) — Association of epiphytic lichens and host characters
+:::

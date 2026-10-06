@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+Our research group combines various types of biological data to answer questions about biodiversity with statistics and phylogenetics. For the full list of papers, see our [publications](publications.qmd) or the PI's [ORCID record](https://orcid.org/0000-0002-8437-2180).
+
+## How many species are there? {#species}
+
+**Floristics and systematics.** With collections from around the world, we do good old taxonomy — identifying and classifying the organisms at hand. When problems arise, we use a number of approaches, from morphology to DNA, to work out a new, hopefully more correct, classification of the group.
+
+Example projects
+
+- Bryophytes of Mo'orea, French Polynesia, as part of the BIOCODE project
+- Systematics of crustose lichenized fungi in the family Graphidaceae
+- Hidden diversity in the *Graphis scripta* complex
+
+## What maintains the diversity in the community? {#community}
+
+**Community assembly.** We look at the members of communities across spatial and temporal scales to understand how species are assembled in a tiny space — like the leaves or bark of host plants.
+
+Example projects
+
+- Effects of microclimate fluctuation on beta diversity of epiphyllous bryophytes
+- Metacommunities of bryophytes and lichens on the bark of 7,000 stems in a long-term forest plot
+- Roles of host specificity and architecture in microalgal communities on *Padina*
+
+## What is the origin of current diversity? {#origin}
+
+**Evolutionary ecology and phylogenetics.** Molecular and phylogenetic data let us understand the relationships among living species and use them to ask how, when, and hopefully why these lineages diversified. Why are they so diverse? What could drive the observed level of diversity?
+
+Example projects
+
+- Adaptive traits of epiphyllous bryophytes
+- Character transformation within the crustose lichen family Graphidaceae
+- Diversification dynamics of hyperdiverse lichen families

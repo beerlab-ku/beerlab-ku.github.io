@@ -1,0 +1,83 @@
+---
+title: "Teaching"
+---
+
+Teaching has been one of my main motivations. I have taught a wide range of classes, from general education and teacher training to computer-intensive courses.
+
+## Free online courses (in Thai)
+
+::: {.card-grid}
+::: {.tile}
+### Practical Data Analysis for Botanists
+Have data? Need a graph and statistical tests? Learn to do it in R from the beginning.
+
+<!-- TODO: add course link -->[Watch on YouTube →](https://www.youtube.com/@ajarnbier)
+:::
+::: {.tile}
+### Applied Phylogenetics in Plant Biology
+Heard about phylogenies and want to make your own? Build one and do more with your phylogeny.
+
+<!-- TODO: add course link -->[Watch on YouTube →](https://www.youtube.com/@ajarnbier)
+:::
+::: {.tile}
+### Bryology
+Bryophytes are cool, and there is more to learn about them than just taxonomy. Learn about bryophyte biology.
+
+<!-- TODO: add course link -->[Watch on YouTube →](https://www.youtube.com/@ajarnbier)
+:::
+:::
+
+More videos on my YouTube channel: [\@ajarnbier](https://www.youtube.com/@ajarnbier)
+
+## Courses at Kasetsart University
+
+::: {.course-list}
+- [01401114]{.code} General Botany
+- [01401201]{.code} Plants for Value of Life Creation
+- [01401412]{.code} Morphology of Non-vascular Plants
+- [01401463]{.code} Evolutionary Biology of Plants
+- [01401472]{.code} Introduction to Plant Molecular Biology
+- [01401491]{.code} Research Methods in Botany
+- [01401523]{.code} Bryology
+- [01401565]{.code} Applied Phylogenetics in Plant Biology
+- [01401567]{.code} Practical Data Analysis for Botanists
+- [01401583]{.code} Tropical Terrestrial Ecosystem
+- [01401591]{.code} Graduate Research Methods in Botany
+- [01401597]{.code} Graduate Seminar
+- [01401661]{.code} Modeling in Botany
+:::
+
+**Invited lecturer**
+
+- Buddhism and Modern Disciplines — Mahachulalongkornrajavidyalaya University
+- Systematic Biology and Biodiversity — Mahidol University International College
+
+## Teaching awards
+
+- Innovative Teaching Scholar, Cohort 2
+- Best Practice, Online Class, Faculty of Science, Kasetsart University
+- Outstanding Instructor Award, Faculty of Science, Kasetsart University (2019)
+- Outstanding Graduate Student Instructor Award, UC Berkeley
+- Instructional Improvement Award
+
+## Teaching philosophy
+
+At a time when environmental problems are of great concern, the biological sciences are expected to produce solutions to overcome the crisis. However, as a teacher of biology, I regard the attempt to turn biology into a mere "solution-making" machine as miseducative for students. Instead, I see biological education as the cultivation of an appreciation for nature and an education in scientific processes.
+
+Appreciation of nature gives people a real sense of stewardship. I believe in an organic, yet hidden, connection between humans and the natural world. To help students re-establish that connection, I give them opportunities to interact with nature and develop their own sense of appreciation through lectures on natural history, field trips, and discussions. I also use myself as an example of how one can connect with one's surroundings. I encourage students to spend time looking at nature and finding something that interests them, so that their appreciation of nature, rather than my authority, becomes the driving force of their education.
+
+I portray biology as science. My role as a teacher is to give students ways to go into nature, ask questions, and carry out experiments. Drawing on my research experience, I use class and lab time to expose students to current methods in biology, and I work with students who need to develop new approaches that better fit their questions. It is a chance for students to question and experience scientific processes, rather than to produce specific, if not right, answers to problems. A strong foundation in biology will not only contribute to our long-accumulating body of knowledge but also give future society the incentives and the means to protect the place we live.
+
+## Previous teaching experience
+
+**Graduate Student Instructor — UC Berkeley**
+General Biology · General Biology (Field Studies Section) · Ecology · Biology and Geomorphology of Tropical Islands · Ecosystems of California
+
+**Instructor — Lake Forest College (Fall 2014)**
+ES 220 Evolution, Ecology, and Environment
+
+**Workshop instructor — UC Berkeley**
+Workshop for new graduate student instructors · California Biogeography and Phylogenetics
+
+**Other**
+GK-12 Graduate Fellow for a 7th-grade classroom · College essay writing coach for Thai students · Tropical bryology course coordinator · Thai scholar orientation program staff · Tutor for advanced high-school biology

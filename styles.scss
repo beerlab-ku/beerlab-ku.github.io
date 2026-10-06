@@ -1,0 +1,117 @@
+/*-- scss:defaults --*/
+$primary:    #2f5d3a;   // moss green
+$secondary:  #6b7d5c;
+$body-color: #22271f;
+$link-color: #2f6b45;
+$body-bg:    #fbfbf7;
+$font-family-sans-serif: "Noto Sans", "Noto Sans Thai", system-ui, sans-serif;
+$headings-font-family: "Noto Serif", "Noto Sans Thai", Georgia, serif;
+$headings-font-weight: 700;
+$navbar-bg: $primary;
+$navbar-fg: #f3f5ee;
+$navbar-hl: #ffffff;
+$footer-bg: #eef0e8;
+
+/*-- scss:rules --*/
+body { line-height: 1.65; }
+
+h1.title, .quarto-title h1 { color: $primary; }
+h2 { color: $primary; margin-top: 2.2rem; border-bottom: none; }
+h3 { font-size: 1.2rem; }
+
+.lead-block {
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.hero {
+  background: linear-gradient(135deg, #2f5d3a 0%, #4f7d4e 60%, #8aa66a 100%);
+  color: #fff;
+  border-radius: 14px;
+  padding: 2.6rem 2.2rem;
+  margin: 0.5rem 0 2rem;
+  h1, h2, p { color: #fff; border: 0; margin-top: 0; }
+  .hero-title { font-family: $headings-font-family; font-size: 2.1rem; font-weight: 700; line-height: 1.2; margin-bottom: .6rem; }
+  .hero-sub { font-size: 1.1rem; opacity: .92; margin-bottom: 0; }
+}
+@media (max-width: 576px) {
+  .hero { padding: 1.8rem 1.3rem; .hero-title { font-size: 1.6rem; } }
+}
+
+.th { font-family: "Noto Sans Thai", "Noto Sans", sans-serif; }
+.thai-block {
+  border-left: 4px solid #a9bf8c;
+  padding: .3rem 0 .3rem 1rem;
+  color: #3d4436;
+}
+
+/* cards used on home, research, people */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.1rem;
+  margin: 1rem 0 1.5rem;
+}
+.tile {
+  background: #fff;
+  border: 1px solid #e1e5d8;
+  border-radius: 12px;
+  padding: 1.2rem 1.3rem;
+  h3 { margin-top: 0; color: $primary; }
+  p:last-child { margin-bottom: 0; }
+}
+
+/* people */
+.person {
+  display: flex;
+  gap: 1.2rem;
+  background: #fff;
+  border: 1px solid #e1e5d8;
+  border-radius: 12px;
+  padding: 1.2rem 1.3rem;
+  margin: 1rem 0;
+  h3 { margin: 0 0 .2rem; color: $primary; }
+  .role { color: $secondary; font-size: .95rem; margin-bottom: .5rem; }
+  .avatar {
+    flex: 0 0 88px; width: 88px; height: 88px; border-radius: 50%;
+    background: #dfe8d4; color: $primary;
+    display: flex; align-items: center; justify-content: center;
+    font-family: $headings-font-family; font-weight: 700; font-size: 1.6rem;
+    overflow: hidden;
+    img { width: 100%; height: 100%; object-fit: cover; }
+  }
+  .quote { font-style: italic; color: #4a5343; }
+  .contact { font-size: .92rem; }
+  dl { margin: 0 0 .4rem; }
+  dt { font-weight: 600; display: inline; }
+  dd { display: inline; margin: 0; }
+  dd::after { content: ""; display: block; }
+  details summary { cursor: pointer; color: $link-color; font-size: .95rem; }
+  details ol { font-size: .92rem; margin-top: .4rem; }
+}
+@media (max-width: 576px) {
+  .person { flex-direction: column; }
+}
+
+.alumni-year h3 { margin-top: 1.4rem; }
+.alumni-year ul { padding-left: 1.1rem; }
+
+/* publications */
+.pub-meta { color: $secondary; }
+#pub-search { max-width: 520px; margin: .5rem 0 1.2rem; }
+.pub-year-heading { font-size: 1.35rem; margin-top: 1.8rem; }
+.pub-list { padding-left: 1.2rem; }
+.pub { margin-bottom: .75rem; line-height: 1.55; }
+.pub-title { font-weight: 600; }
+.pub-link, .pub-cites {
+  display: inline-block; font-size: .78rem; padding: .05rem .5rem; margin-left: .2rem;
+  border-radius: 999px; border: 1px solid #c9d4bb; text-decoration: none; white-space: nowrap;
+}
+.pub-oa { background: #eef5e6; }
+.pub-cites { color: $secondary; border-color: #e1e5d8; }
+
+.course-list { columns: 2 320px; }
+.course-list li { break-inside: avoid; }
+.code { font-family: SFMono-Regular, Menlo, monospace; color: $secondary; font-size: .9em; }
+
+.navbar-logo { width: 36px; height: 36px; max-height: 36px; }

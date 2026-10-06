@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+This list updates itself every week from the PI's [ORCID record](https://orcid.org/0000-0002-8437-2180) and [OpenAlex](https://openalex.org). The PI's name is in **bold**. Something missing or wrong? Add it to `data/pub_overrides.json`, or better, fix it in ORCID so it's correct everywhere.
+
+{{< include _publications.md >}}
+
+```{=html}
+<script>
+(function () {
+  const box = document.getElementById("pub-search");
+  if (!box) return;
+  box.addEventListener("input", function () {
+    const q = box.value.trim().toLowerCase();
+    document.querySelectorAll(".pub-year").forEach(function (sec) {
+      let shown = 0;
+      const yearHit = q && sec.dataset.year.toLowerCase().includes(q);
+      sec.querySelectorAll("li.pub").forEach(function (li) {
+        const hit = !q || yearHit || li.textContent.toLowerCase().includes(q);
+        li.style.display = hit ? "" : "none";
+        if (hit) shown++;
+      });
+      sec.style.display = shown ? "" : "none";
+    });
+  });
+})();
+</script>
+```
