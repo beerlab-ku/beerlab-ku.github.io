@@ -11,12 +11,12 @@ website:
   title: "BEER Lab"
   description: "Biodiversity, Ecology and Evolution Research Lab — Department of Botany, Kasetsart University"
   site-url: "https://beerlab-ku.github.io"   # change to your final address
-  favicon: images/favicon.svg
+  favicon: images/favicon.png
   page-navigation: false
   back-to-top-navigation: true
   navbar:
     background: primary
-    logo: images/logo.svg
+    logo: images/logo.png
     title: "BEER Lab"
     left:
       - href: index.qmd
