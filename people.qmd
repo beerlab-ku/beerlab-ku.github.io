@@ -62,9 +62,21 @@ Expertise
 Current research
 : Temporal changes and associated factors of duckweeds within natural ponds of Bangkok
 
-I am interested in plant diversity, taxonomy, and genetics. I currently study ecology, with a special focus on duckweeds. I enjoy hiking and observing flowering plants, which I am particularly passionate about.
-
 [[suraphong.k@ku.th](mailto:suraphong.k@ku.th)]{.contact}
+:::
+:::
+
+::: {.person}
+::: {.avatar}
+![](images/people/nam.jpg)
+:::
+::: {}
+### Taratorn Munsuwan (Nam)
+Expertise
+: Computational Biology, Duckweed Biology
+
+Current research
+: Effects of Cytokinin on Duckweed Growth
 :::
 :::
 
@@ -80,17 +92,6 @@ Expertise
 Current research
 : Past, Present, Future: Evolution of Wild Ginger (*Zingiber*) under Climatic Niches
 
-:::
-:::
-
-::: {.person}
-::: {.avatar}
-![](images/people/nam.jpg)
-:::
-::: {}
-### Taratorn Munsuwan (Nam)
-Current research
-: Effects of Cytokinin on Duckweed Growth
 :::
 :::
 
