@@ -177,6 +177,9 @@ Expertise
 Current research
 : Past, Present, Future: Evolution of Wild Ginger (*Zingiber*) under Climatic Niches
 
+:::
+:::
+
 ## Alumni
 
 ::: {.alumni-year}
