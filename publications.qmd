@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-This list updates itself every week from the PI's [ORCID record](https://orcid.org/0000-0002-8437-2180) and [OpenAlex](https://openalex.org). The PI's name is in **bold**. Something missing or wrong? Add it to `data/pub_overrides.json`, or better, fix it in ORCID so it's correct everywhere.
+This list updates itself every week from the PI's [ORCID record](https://orcid.org/0000-0002-8437-2180) and [OpenAlex](https://openalex.org). The PI's name is in **bold**.
 
 {{< include _publications.md >}}
 
