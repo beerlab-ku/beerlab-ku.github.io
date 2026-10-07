@@ -62,7 +62,6 @@ Expertise
 Current research
 : Temporal changes and associated factors of duckweeds within natural ponds of Bangkok
 
-[[suraphong.k@ku.th](mailto:suraphong.k@ku.th)]{.contact}
 :::
 :::
 
@@ -161,7 +160,6 @@ Expertise
 Project
 : An integrative perspective into the endemic diversity of *Maerua siamensis*
 
-[[natthawadi.won@ku.th](mailto:natthawadi.won@ku.th)]{.contact}
 
 :::
 :::
@@ -185,7 +183,6 @@ Project (Ph.D.)
 Project (M.S.)
 : Species distribution modeling of *Vitex glabrata*
 
-[[kanokporn.promn@ku.th](mailto:kanokporn.promn@ku.th)]{.contact}
 
 :::
 :::
@@ -204,8 +201,6 @@ Expertise
 Project
 : Genetic and Biochemical Diversity, and Demographic Senescence of Some Duckweed Species in Thailand
 
-[[athita.s@ku.th](mailto:athita.s@ku.th)]{.contact}
-
 :::
 :::
 
@@ -223,7 +218,6 @@ Expertise
 Project
 : Utilization of Bryophytes as Nest Materials in Passerine Birds in Doi Inthanon National Park
 
-[[akekachoke.b@ku.th](mailto:akekachoke.b@ku.th) · [eBird](https://ebird.org/profile/NzUwMTUy)]{.contact}
 :::
 :::
 
