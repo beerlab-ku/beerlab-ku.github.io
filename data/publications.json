@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-10-06",
+  "updated": "2026-10-12",
   "orcid": "0000-0002-8437-2180",
   "n_orcid": 77,
-  "n_openalex": 118
+  "n_openalex": 114
  },
  "publications": [
   {
@@ -90,7 +90,7 @@
    "issue": null,
    "pages": "103991–103991",
    "oa_url": null,
-   "cited_by": 0,
+   "cited_by": 1,
    "openalex": "https://openalex.org/W7119870934",
    "source": "orcid+openalex"
   },
@@ -323,7 +323,7 @@
    "issue": "11",
    "pages": "1439–1439",
    "oa_url": "https://doi.org/10.3390/genes15111439",
-   "cited_by": 9,
+   "cited_by": 8,
    "openalex": "https://openalex.org/W4404141932",
    "source": "orcid+openalex"
   },
@@ -734,7 +734,7 @@
    "issue": "12",
    "pages": "1953–1953",
    "oa_url": "https://www.mdpi.com/2073-4409/11/12/1953/pdf?version=1655717410",
-   "cited_by": 7,
+   "cited_by": 5,
    "openalex": "https://openalex.org/W4283013446",
    "source": "orcid+openalex"
   },
@@ -761,7 +761,7 @@
    "issue": "11",
    "pages": "1764–1764",
    "oa_url": "https://www.mdpi.com/2073-4409/11/11/1764/pdf?version=1653893194",
-   "cited_by": 13,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W4281654524",
    "source": "orcid+openalex"
   },
@@ -816,7 +816,7 @@
    "issue": null,
    "pages": "562856–562856",
    "oa_url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.562856/pdf",
-   "cited_by": 45,
+   "cited_by": 38,
    "openalex": "https://openalex.org/W3119887886",
    "source": "orcid+openalex"
   },
@@ -862,7 +862,7 @@
    "issue": "1",
    "pages": "624–636",
    "oa_url": "https://doi.org/10.1016/j.ygeno.2020.09.058",
-   "cited_by": 18,
+   "cited_by": 17,
    "openalex": "https://openalex.org/W3089622920",
    "source": "orcid+openalex"
   },
@@ -891,7 +891,7 @@
    "issue": null,
    "pages": "737005–737005",
    "oa_url": null,
-   "cited_by": 43,
+   "cited_by": 37,
    "openalex": "https://openalex.org/W3170010958",
    "source": "orcid+openalex"
   },
@@ -994,7 +994,7 @@
    "issue": "5",
    "pages": "3097–3107",
    "oa_url": "https://doi.org/10.1016/j.ygeno.2020.05.024",
-   "cited_by": 14,
+   "cited_by": 13,
    "openalex": "https://openalex.org/W3029163768",
    "source": "orcid+openalex"
   },
@@ -1126,7 +1126,7 @@
    "issue": "1",
    "pages": "15459–15459",
    "oa_url": "https://www.nature.com/articles/s41598-019-51863-w.pdf",
-   "cited_by": 25,
+   "cited_by": 23,
    "openalex": "https://openalex.org/W2982651015",
    "source": "orcid+openalex"
   },
@@ -1218,7 +1218,7 @@
    "issue": null,
    "pages": null,
    "oa_url": null,
-   "cited_by": 77,
+   "cited_by": 75,
    "openalex": "https://openalex.org/W2891455473",
    "source": "orcid+openalex"
   },
@@ -1238,7 +1238,7 @@
    "issue": "8",
    "pages": "e01174–e01174",
    "oa_url": "https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aps3.1174",
-   "cited_by": 14,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W2888461860",
    "source": "orcid+openalex"
   },
@@ -1293,7 +1293,7 @@
    "doi": "10.3897/bdj.5.e11778",
    "type": "article",
    "authors": [
-    "Daniel Howard Norris",
+    "Daniel H. Norris",
     "Ekaphan Kraichak",
     "Allen C. Risk",
     "Diane Lucas",
@@ -1398,7 +1398,7 @@
    "issue": null,
    "pages": "261–274",
    "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S1055790316300227?via%3Dihub",
-   "cited_by": 53,
+   "cited_by": 49,
    "openalex": "https://openalex.org/W2306353990",
    "source": "orcid+openalex"
   },
@@ -1517,7 +1517,7 @@
    "issue": "1",
    "pages": "10028–10028",
    "oa_url": "https://www.nature.com/articles/srep10028.pdf",
-   "cited_by": 61,
+   "cited_by": 60,
    "openalex": "https://openalex.org/W2399794575",
    "source": "orcid+openalex"
   },
@@ -1561,7 +1561,7 @@
    "issue": "14",
    "pages": "3779–3797",
    "oa_url": null,
-   "cited_by": 128,
+   "cited_by": 122,
    "openalex": "https://openalex.org/W1829157666",
    "source": "orcid+openalex"
   },
@@ -1771,7 +1771,7 @@
    "issue": "0",
    "pages": "bau061–bau061",
    "oa_url": "https://academic.oup.com/database/article-pdf/doi/10.1093/database/bau061/17472787/bau061.pdf",
-   "cited_by": 490,
+   "cited_by": 470,
    "openalex": "https://openalex.org/W1993679825",
    "source": "orcid+openalex"
   },
@@ -2032,7 +2032,7 @@
    "issue": null,
    "pages": "789573–789573",
    "oa_url": "https://www.frontiersin.org/articles/10.3389/fgene.2022.789573/pdf",
-   "cited_by": 30,
+   "cited_by": 26,
    "openalex": "https://openalex.org/W4210420868",
    "source": "openalex"
   },
@@ -2127,7 +2127,7 @@
    "issue": "4",
    "pages": "110868–110868",
    "oa_url": "https://doi.org/10.1016/j.ygeno.2024.110868",
-   "cited_by": 13,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W4398785625",
    "source": "openalex"
   },
@@ -2235,7 +2235,7 @@
    "issue": "4",
    "pages": "29–29",
    "oa_url": null,
-   "cited_by": 6,
+   "cited_by": 5,
    "openalex": "https://openalex.org/W4387160089",
    "source": "openalex"
   },
