@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "orcid": "0000-0002-8437-2180",
   "n_orcid": 77,
-  "n_openalex": 114
+  "n_openalex": 112
  },
  "publications": [
   {
@@ -110,7 +110,7 @@
    "issue": "4",
    "pages": "134–134",
    "oa_url": "https://www.mdpi.com/2624-7402/8/4/134/pdf?version=1775035074",
-   "cited_by": 0,
+   "cited_by": 1,
    "openalex": "https://openalex.org/W7147436433",
    "source": "orcid+openalex"
   },
@@ -132,7 +132,7 @@
    "issue": "2",
    "pages": "159–159",
    "oa_url": "https://www.mdpi.com/2079-7737/15/2/159/pdf?version=1768555875",
-   "cited_by": 0,
+   "cited_by": 2,
    "openalex": "https://openalex.org/W7124422691",
    "source": "orcid+openalex"
   },
@@ -229,7 +229,7 @@
    "issue": "13",
    "pages": "2030–2030",
    "oa_url": "https://www.mdpi.com/2223-7747/14/13/2030/pdf?version=1751462582",
-   "cited_by": 10,
+   "cited_by": 11,
    "openalex": "https://openalex.org/W4411995750",
    "source": "orcid+openalex"
   },
@@ -251,7 +251,7 @@
    "issue": "2",
    "pages": "64–64",
    "oa_url": "https://www.mdpi.com/2037-0164/16/2/64/pdf?version=1749191018",
-   "cited_by": 4,
+   "cited_by": 6,
    "openalex": "https://openalex.org/W4411100743",
    "source": "orcid+openalex"
   },
@@ -396,7 +396,7 @@
    "volume": "46",
    "issue": "4",
    "pages": "269–281",
-   "oa_url": null,
+   "oa_url": "https://www.researchsquare.com/article/rs-2514207/latest.pdf",
    "cited_by": 0,
    "openalex": "https://openalex.org/W4404961641",
    "source": "orcid+openalex"
@@ -450,7 +450,7 @@
    "issue": "1",
    "pages": "95–112",
    "oa_url": null,
-   "cited_by": 3,
+   "cited_by": 2,
    "openalex": "https://openalex.org/W4388820742",
    "source": "orcid+openalex"
   },
@@ -478,7 +478,7 @@
    "issue": "4",
    "pages": "e47–e47",
    "oa_url": "https://genominfo.org/upload/pdf/gi-23075.pdf",
-   "cited_by": 0,
+   "cited_by": 1,
    "openalex": "https://openalex.org/W4390424700",
    "source": "orcid+openalex"
   },
@@ -510,7 +510,7 @@
    "issue": "11",
    "pages": "1428–1428",
    "oa_url": "https://www.mdpi.com/2079-7737/12/11/1428/pdf?version=1699882657",
-   "cited_by": 3,
+   "cited_by": 4,
    "openalex": "https://openalex.org/W4388651974",
    "source": "orcid+openalex"
   },
@@ -530,7 +530,7 @@
    "issue": null,
    "pages": null,
    "oa_url": "https://www.preprints.org/manuscript/202311.0569/v1/download",
-   "cited_by": 2,
+   "cited_by": 1,
    "openalex": "https://openalex.org/W4388510310",
    "source": "orcid+openalex"
   },
@@ -560,7 +560,7 @@
    "issue": "10",
    "pages": "1280–1280",
    "oa_url": "https://www.mdpi.com/2079-7737/12/10/1280/pdf?version=1695656349",
-   "cited_by": 17,
+   "cited_by": 18,
    "openalex": "https://openalex.org/W4387052397",
    "source": "orcid+openalex"
   },
@@ -582,7 +582,7 @@
    "issue": "5",
    "pages": "253–264",
    "oa_url": null,
-   "cited_by": 1,
+   "cited_by": 2,
    "openalex": "https://openalex.org/W4386968957",
    "source": "orcid+openalex"
   },
@@ -625,7 +625,7 @@
    "issue": "6",
    "pages": "1546–1546",
    "oa_url": "https://www.mdpi.com/2073-4395/13/6/1546/pdf?version=1685708890",
-   "cited_by": 10,
+   "cited_by": 11,
    "openalex": "https://openalex.org/W4379141897",
    "source": "orcid+openalex"
   },
@@ -645,7 +645,7 @@
    "issue": "4",
    "pages": "725–725",
    "oa_url": "https://www.mdpi.com/1999-4907/14/4/725/pdf?version=1680340000",
-   "cited_by": 7,
+   "cited_by": 8,
    "openalex": "https://openalex.org/W4362579675",
    "source": "orcid+openalex"
   },
@@ -687,7 +687,7 @@
    "issue": "22",
    "pages": "15067–15067",
    "oa_url": "https://www.mdpi.com/2071-1050/14/22/15067/pdf?version=1669043051",
-   "cited_by": 5,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W4309212953",
    "source": "orcid+openalex"
   },
@@ -707,7 +707,7 @@
    "issue": "9",
    "pages": "1463–1463",
    "oa_url": "https://www.mdpi.com/1999-4907/13/9/1463/pdf?version=1663661595",
-   "cited_by": 7,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W4295886943",
    "source": "orcid+openalex"
   },
@@ -761,7 +761,7 @@
    "issue": "11",
    "pages": "1764–1764",
    "oa_url": "https://www.mdpi.com/2073-4409/11/11/1764/pdf?version=1653893194",
-   "cited_by": 12,
+   "cited_by": 14,
    "openalex": "https://openalex.org/W4281654524",
    "source": "orcid+openalex"
   },
@@ -789,7 +789,7 @@
    "issue": "4",
    "pages": "43–43",
    "oa_url": "https://www.mdpi.com/2410-3888/6/4/43/pdf?version=1632391705",
-   "cited_by": 8,
+   "cited_by": 9,
    "openalex": "https://openalex.org/W3201533128",
    "source": "orcid+openalex"
   },
@@ -816,7 +816,7 @@
    "issue": null,
    "pages": "562856–562856",
    "oa_url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.562856/pdf",
-   "cited_by": 38,
+   "cited_by": 39,
    "openalex": "https://openalex.org/W3119887886",
    "source": "orcid+openalex"
   },
@@ -835,7 +835,7 @@
    "issue": null,
    "pages": "e10962–e10962",
    "oa_url": "https://doi.org/10.7717/peerj.10962",
-   "cited_by": 30,
+   "cited_by": 34,
    "openalex": "https://openalex.org/W3131976787",
    "source": "orcid+openalex"
   },
@@ -946,7 +946,7 @@
    "issue": "11",
    "pages": "1241–1241",
    "oa_url": "https://www.mdpi.com/2073-4425/11/11/1241/pdf?version=1604367179",
-   "cited_by": 9,
+   "cited_by": 7,
    "openalex": "https://openalex.org/W3093879012",
    "source": "orcid+openalex"
   },
@@ -1053,7 +1053,7 @@
    "issue": "11",
    "pages": "6366–6377",
    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.5208",
-   "cited_by": 13,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W2942817523",
    "source": "orcid+openalex"
   },
@@ -1074,7 +1074,7 @@
    "issue": "1",
    "pages": "8518–8518",
    "oa_url": "https://www.nature.com/articles/s41598-019-44881-1.pdf",
-   "cited_by": 40,
+   "cited_by": 42,
    "openalex": "https://openalex.org/W2955653742",
    "source": "orcid+openalex"
   },
@@ -1097,7 +1097,7 @@
    "issue": null,
    "pages": "e6893–e6893",
    "oa_url": "https://doi.org/10.7717/peerj.6893",
-   "cited_by": 30,
+   "cited_by": 31,
    "openalex": "https://openalex.org/W2944207369",
    "source": "orcid+openalex"
   },
@@ -1137,15 +1137,15 @@
    "doi": "10.34044/j.anres.2019.53.1.07",
    "type": "article",
    "authors": [
-    "Promnikorn, K.",
-    "Jutamanee, K.",
-    "Kraichak, E."
+    "Kanokporn Promnikorn",
+    "Kanapol Jutamanee",
+    "Ekaphan Kraichak"
    ],
    "volume": null,
    "issue": null,
    "pages": null,
    "oa_url": "https://doi.org/10.34044/j.anres.2019.53.1.07",
-   "cited_by": 0,
+   "cited_by": 9,
    "openalex": "https://openalex.org/W4239218633",
    "source": "orcid+openalex"
   },
@@ -1197,7 +1197,7 @@
    "issue": "10",
    "pages": "e0223726–e0223726",
    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223726&type=printable",
-   "cited_by": 18,
+   "cited_by": 20,
    "openalex": "https://openalex.org/W2979466054",
    "source": "orcid+openalex"
   },
@@ -1218,7 +1218,7 @@
    "issue": null,
    "pages": null,
    "oa_url": null,
-   "cited_by": 75,
+   "cited_by": 79,
    "openalex": "https://openalex.org/W2891455473",
    "source": "orcid+openalex"
   },
@@ -1259,7 +1259,7 @@
    "issue": "1",
    "pages": "2297–2297",
    "oa_url": "https://www.nature.com/articles/s41598-017-02477-7.pdf",
-   "cited_by": 28,
+   "cited_by": 30,
    "openalex": "https://openalex.org/W2616459592",
    "source": "orcid+openalex"
   },
@@ -1282,7 +1282,7 @@
    "issue": "1",
    "pages": "101–117",
    "oa_url": null,
-   "cited_by": 115,
+   "cited_by": 119,
    "openalex": "https://openalex.org/W2607504164",
    "source": "orcid+openalex"
   },
@@ -1350,7 +1350,7 @@
    "issue": null,
    "pages": "1–91",
    "oa_url": "https://mycokeys.pensoft.net/article/12666/download/pdf/",
-   "cited_by": 42,
+   "cited_by": 43,
    "openalex": "https://openalex.org/W2621628547",
    "source": "orcid+openalex"
   },
@@ -1398,7 +1398,7 @@
    "issue": null,
    "pages": "261–274",
    "oa_url": "https://doi.org/10.1016/j.ympev.2016.03.030",
-   "cited_by": 49,
+   "cited_by": 50,
    "openalex": "https://openalex.org/W2306353990",
    "source": "orcid+openalex"
   },
@@ -1442,7 +1442,7 @@
    "issue": "4",
    "pages": "868–884",
    "oa_url": null,
-   "cited_by": 20,
+   "cited_by": 21,
    "openalex": "https://openalex.org/W2519279217",
    "source": "orcid+openalex"
   },
@@ -1471,7 +1471,7 @@
    "issue": "1",
    "pages": "293–304",
    "oa_url": null,
-   "cited_by": 91,
+   "cited_by": 94,
    "openalex": "https://openalex.org/W2209081250",
    "source": "orcid+openalex"
   },
@@ -1517,7 +1517,7 @@
    "issue": "1",
    "pages": "10028–10028",
    "oa_url": "https://www.nature.com/articles/srep10028.pdf",
-   "cited_by": 60,
+   "cited_by": 61,
    "openalex": "https://openalex.org/W2399794575",
    "source": "orcid+openalex"
   },
@@ -1536,7 +1536,7 @@
    "issue": "7",
    "pages": "597–606",
    "oa_url": null,
-   "cited_by": 11,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W2294367329",
    "source": "orcid+openalex"
   },
@@ -1561,7 +1561,7 @@
    "issue": "14",
    "pages": "3779–3797",
    "oa_url": null,
-   "cited_by": 122,
+   "cited_by": 124,
    "openalex": "https://openalex.org/W1829157666",
    "source": "orcid+openalex"
   },
@@ -1591,7 +1591,7 @@
    "issue": "3",
    "pages": "447–458",
    "oa_url": null,
-   "cited_by": 45,
+   "cited_by": 47,
    "openalex": "https://openalex.org/W342357771",
    "source": "orcid+openalex"
   },
@@ -1636,7 +1636,7 @@
    "issue": "12",
    "pages": null,
    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3732/apps.1400081",
-   "cited_by": 11,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W2063749663",
    "source": "orcid+openalex"
   },
@@ -1655,7 +1655,7 @@
    "issue": "4",
    "pages": null,
    "oa_url": "https://doi.org/10.13102/sociobiology.v61i4.407-414",
-   "cited_by": 11,
+   "cited_by": 12,
    "openalex": "https://openalex.org/W1994912269",
    "source": "orcid+openalex"
   },
@@ -1771,7 +1771,7 @@
    "issue": "0",
    "pages": "bau061–bau061",
    "oa_url": "https://academic.oup.com/database/article-pdf/doi/10.1093/database/bau061/17472787/bau061.pdf",
-   "cited_by": 471,
+   "cited_by": 475,
    "openalex": "https://openalex.org/W1993679825",
    "source": "orcid+openalex"
   },
@@ -1881,7 +1881,7 @@
    "issue": "1",
    "pages": null,
    "oa_url": null,
-   "cited_by": 81,
+   "cited_by": 83,
    "openalex": "https://openalex.org/W2148096021",
    "source": "orcid+openalex"
   },
@@ -1910,7 +1910,7 @@
    "issue": "1",
    "pages": null,
    "oa_url": null,
-   "cited_by": 32,
+   "cited_by": 33,
    "openalex": "https://openalex.org/W2142830941",
    "source": "orcid+openalex"
   },
@@ -1952,7 +1952,7 @@
    "issue": "6",
    "pages": "466–474",
    "oa_url": null,
-   "cited_by": 16,
+   "cited_by": 17,
    "openalex": "https://openalex.org/W2098531537",
    "source": "orcid+openalex"
   },
@@ -2004,7 +2004,7 @@
    "issue": "6",
    "pages": "2411–2429",
    "oa_url": "https://doi.org/10.1111/nph.19772",
-   "cited_by": 78,
+   "cited_by": 89,
    "openalex": "https://openalex.org/W4395460720",
    "source": "openalex"
   },
@@ -2032,7 +2032,7 @@
    "issue": null,
    "pages": "789573–789573",
    "oa_url": "https://www.frontiersin.org/articles/10.3389/fgene.2022.789573/pdf",
-   "cited_by": 26,
+   "cited_by": 27,
    "openalex": "https://openalex.org/W4210420868",
    "source": "openalex"
   },
@@ -2080,7 +2080,7 @@
    "issue": "5",
    "pages": "e0302584–e0302584",
    "oa_url": "https://doi.org/10.1371/journal.pone.0302584",
-   "cited_by": 14,
+   "cited_by": 15,
    "openalex": "https://openalex.org/W4396674019",
    "source": "openalex"
   },
@@ -2150,7 +2150,7 @@
    "issue": null,
    "pages": null,
    "oa_url": "https://doi.org/10.3389/fagro.2025.1476033",
-   "cited_by": 7,
+   "cited_by": 10,
    "openalex": "https://openalex.org/W4408135165",
    "source": "openalex"
   },
@@ -2219,8 +2219,68 @@
    "issue": "3",
    "pages": "e39–e39",
    "oa_url": "https://genominfo.org/upload/pdf/gi-23038.pdf",
-   "cited_by": 11,
+   "cited_by": 13,
    "openalex": "https://openalex.org/W4387112057",
+   "source": "openalex"
+  },
+  {
+   "title": "Impact of higher temperatures on yolk sac absorption and early development in hybrid catfish between Clarias gariepinus and C. macrocephalus",
+   "year": 2025,
+   "venue": "Journal of the World Aquaculture Society",
+   "doi": "10.1111/jwas.13119",
+   "type": "article",
+   "authors": [
+    "Juniman Rey",
+    "Ton Huu Duc Nguyen",
+    "Worapong Singchat",
+    "Thitipong Punthum",
+    "Ekaphan Kraichak",
+    "Pichit Panochit",
+    "Wiroon Manee-aphai",
+    "Anake Phu-onnim",
+    "Sayam Sengtrakool",
+    "Kednapat Sriphairoj",
+    "Sittichai Hatachote",
+    "Narongrit Muangmai",
+    "Aingorn Chaiyes",
+    "Prateep Duengkae",
+    "Yoichi Matsuda",
+    "Jiraboon Prasanpan",
+    "Kornsorn Srikulnath"
+   ],
+   "volume": "56",
+   "issue": "1",
+   "pages": null,
+   "oa_url": "https://doi.org/10.1111/jwas.13119",
+   "cited_by": 7,
+   "openalex": "https://openalex.org/W4407369916",
+   "source": "openalex"
+  },
+  {
+   "title": "Quality control of fighting fish nucleotide sequences in public repositories reveals a dark matter of systematic taxonomic implication",
+   "year": 2022,
+   "venue": "Genes & Genomics",
+   "doi": "10.1007/s13258-022-01353-7",
+   "type": "article",
+   "authors": [
+    "Thitipong Panthum",
+    "Nattakan Ariyaphong",
+    "Pish Wattanadilokchatkun",
+    "Worapong Singchat",
+    "Syed Farhan Ahmad",
+    "Ekaphan Kraichak",
+    "Sahabhop Dokkaew",
+    "Narongrit Muangmai",
+    "Kyudong Han",
+    "Prateep Duengkae",
+    "Kornsorn Srikulnath"
+   ],
+   "volume": "45",
+   "issue": "2",
+   "pages": "169–181",
+   "oa_url": null,
+   "cited_by": 6,
+   "openalex": "https://openalex.org/W4311291252",
    "source": "openalex"
   },
   {
@@ -2254,6 +2314,29 @@
    "oa_url": "https://doi.org/10.1016/j.gecco.2024.e02870",
    "cited_by": 6,
    "openalex": "https://openalex.org/W4392303534",
+   "source": "openalex"
+  },
+  {
+   "title": "Factors affecting habitat use of asian elephants for the buffer zone management and conservation of Huai Kha Khaeng World Heritage site, Thailand",
+   "year": 2024,
+   "venue": "Global Ecology and Conservation",
+   "doi": "10.1016/j.gecco.2024.e03302",
+   "type": "article",
+   "authors": [
+    "Sangsan Phumsathan",
+    "Kittisak Thongwijit",
+    "Achara Simcharoen",
+    "‪Warong Suksavate",
+    "Ekaphan Kraichak",
+    "Andaman Chankhao",
+    "Nantachai Pongpattananurak"
+   ],
+   "volume": "56",
+   "issue": null,
+   "pages": "e03302–e03302",
+   "oa_url": "https://doi.org/10.1016/j.gecco.2024.e03302",
+   "cited_by": 6,
+   "openalex": "https://openalex.org/W4404451920",
    "source": "openalex"
   },
   {
@@ -2317,62 +2400,6 @@
    "source": "openalex"
   },
   {
-   "title": "Impact of higher temperatures on yolk sac absorption and early development in hybrid catfish between Clarias gariepinus and C. macrocephalus",
-   "year": 2025,
-   "venue": "Journal of the World Aquaculture Society",
-   "doi": "10.1111/jwas.13119",
-   "type": "article",
-   "authors": [
-    "Juniman Rey",
-    "Ton Huu Duc Nguyen",
-    "Worapong Singchat",
-    "Thitipong Punthum",
-    "Ekaphan Kraichak",
-    "Pichit Panochit",
-    "Wiroon Manee-aphai",
-    "Anake Phu-onnim",
-    "Sayam Sengtrakool",
-    "Kednapat Sriphairoj",
-    "Sittichai Hatachote",
-    "Narongrit Muangmai",
-    "Aingorn Chaiyes",
-    "Prateep Duengkae",
-    "Yoichi Matsuda",
-    "Jiraboon Prasanpan",
-    "Kornsorn Srikulnath"
-   ],
-   "volume": "56",
-   "issue": "1",
-   "pages": null,
-   "oa_url": "https://doi.org/10.1111/jwas.13119",
-   "cited_by": 5,
-   "openalex": "https://openalex.org/W4407369916",
-   "source": "openalex"
-  },
-  {
-   "title": "Factors affecting habitat use of asian elephants for the buffer zone management and conservation of Huai Kha Khaeng World Heritage site, Thailand",
-   "year": 2024,
-   "venue": "Global Ecology and Conservation",
-   "doi": "10.1016/j.gecco.2024.e03302",
-   "type": "article",
-   "authors": [
-    "Sangsan Phumsathan",
-    "Kittisak Thongwijit",
-    "Achara Simcharoen",
-    "‪Warong Suksavate",
-    "Ekaphan Kraichak",
-    "Andaman Chankhao",
-    "Nantachai Pongpattananurak"
-   ],
-   "volume": "56",
-   "issue": null,
-   "pages": "e03302–e03302",
-   "oa_url": "https://doi.org/10.1016/j.gecco.2024.e03302",
-   "cited_by": 4,
-   "openalex": "https://openalex.org/W4404451920",
-   "source": "openalex"
-  },
-  {
    "title": "Genome-Wide SNP Analysis of Male and Female Rice Field Frogs, Hoplobatrachus rugulosus, Supports a Non-Genetic Sex Determination System",
    "year": 2021,
    "venue": "Diversity",
@@ -2393,7 +2420,7 @@
    "issue": "10",
    "pages": "501–501",
    "oa_url": "https://www.mdpi.com/1424-2818/13/10/501/pdf?version=1634795962",
-   "cited_by": 5,
+   "cited_by": 6,
    "openalex": "https://openalex.org/W3205629355",
    "source": "openalex"
   },
@@ -2419,35 +2446,27 @@
    "issue": null,
    "pages": "e13270–e13270",
    "oa_url": "https://doi.org/10.7717/peerj.13270",
-   "cited_by": 5,
+   "cited_by": 6,
    "openalex": "https://openalex.org/W4229445137",
    "source": "openalex"
   },
   {
-   "title": "Quality control of fighting fish nucleotide sequences in public repositories reveals a dark matter of systematic taxonomic implication",
-   "year": 2022,
-   "venue": "Genes & Genomics",
-   "doi": "10.1007/s13258-022-01353-7",
+   "title": "Habitat associations of macrolichens on a boreal island in the Bay of Fundy, New Brunswick, Canada",
+   "year": 2009,
+   "venue": "The Bryologist",
+   "doi": "10.1639/0007-2745-112.4.762",
    "type": "article",
    "authors": [
-    "Thitipong Panthum",
-    "Nattakan Ariyaphong",
-    "Pish Wattanadilokchatkun",
-    "Worapong Singchat",
-    "Syed Farhan Ahmad",
     "Ekaphan Kraichak",
-    "Sahabhop Dokkaew",
-    "Narongrit Muangmai",
-    "Kyudong Han",
-    "Prateep Duengkae",
-    "Kornsorn Srikulnath"
+    "Ralph Pope",
+    "Nathaniel T. Wheelwright"
    ],
-   "volume": "45",
-   "issue": "2",
-   "pages": "169–181",
+   "volume": "112",
+   "issue": "4",
+   "pages": "762–772",
    "oa_url": null,
    "cited_by": 5,
-   "openalex": "https://openalex.org/W4311291252",
+   "openalex": "https://openalex.org/W2043718437",
    "source": "openalex"
   },
   {
@@ -2568,25 +2587,6 @@
    "source": "openalex"
   },
   {
-   "title": "Habitat associations of macrolichens on a boreal island in the Bay of Fundy, New Brunswick, Canada",
-   "year": 2009,
-   "venue": "The Bryologist",
-   "doi": "10.1639/0007-2745-112.4.762",
-   "type": "article",
-   "authors": [
-    "Ekaphan Kraichak",
-    "Ralph Pope",
-    "Nathaniel T. Wheelwright"
-   ],
-   "volume": "112",
-   "issue": "4",
-   "pages": "762–772",
-   "oa_url": null,
-   "cited_by": 5,
-   "openalex": "https://openalex.org/W2043718437",
-   "source": "openalex"
-  },
-  {
    "title": "Near-stop in spermatogonia progression and reduced sperm motility in two testis forms of captive North African catfish in Kalasin, Thailand",
    "year": 2024,
    "venue": "Aquaculture",
@@ -2635,26 +2635,6 @@
    "oa_url": null,
    "cited_by": 1,
    "openalex": "https://openalex.org/W4402578371",
-   "source": "openalex"
-  },
-  {
-   "title": "Evolution of the most species-rich family of simple thalloid liverworts (Aneuraceae): a time-calibrated perspective into its evolutionary history and diversification",
-   "year": 2023,
-   "venue": "Research Square",
-   "doi": "10.21203/rs.3.rs-2514207/v1",
-   "type": "preprint",
-   "authors": [
-    "Nopparat Anantaprayoon",
-    "Passorn Wonnapinij",
-    "Steven Don Leavitt",
-    "Ekaphan Kraichak"
-   ],
-   "volume": null,
-   "issue": null,
-   "pages": null,
-   "oa_url": "https://www.researchsquare.com/article/rs-2514207/latest.pdf",
-   "cited_by": 0,
-   "openalex": "https://openalex.org/W4318773507",
    "source": "openalex"
   },
   {
@@ -2739,7 +2719,7 @@
    "source": "openalex"
   },
   {
-   "title": "ความคมคาเชงเศรษฐกจของการเลยงชนโรงในระบบนเวศทเหมาะสม",
+   "title": "ความคุ้มค่าเชิงเศรษฐกิจของการเลี้ยงชันโรงในระบบนิเวศที่เหมาะสม",
    "year": 2024,
    "venue": "Journal of Agricultural Research and Communications",
    "doi": null,
